@@ -5,3 +5,7 @@ The problem of uppercases characters in the installation script has been solved 
 ---------------------------------------------19 / 04 / 2016----------------------------------------------------
 
 Removed Inguma from the menu to bypass issue with installation (By Jayson Grace : https://github.com/l50)
+
+---------------------------------------------21 / 11 / 2018----------------------------------------------------
+
+Updated the command to add the correct keys for the Kali repositories.
